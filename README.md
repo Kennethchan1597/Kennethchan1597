@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🏅 Certification
+
+![MySQL Certified Associate](https://brm-workforce.oracle.com/pdf/certview/images/MYSQLIMPOCA.png)  
+**MySQL Implementation Certified Associate** — *Oracle*
+
+
 ## 💻 Tools & Technologies
 
 **🖥️ Front-end:**  
