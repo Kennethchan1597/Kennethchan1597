@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About Me:
-I'm a beginner coder who loves getting creative and trying out new tech.
+I'm a beginner coder who loves getting creative and trying out new tech.<br>
 Feel free to reach out — I’m excited to connect, inspire, and learn together!
 ## ⚡ Fun fact:
 I used to work in a lab with a Biomedical Science degree but discovered coding is my real passion.
