@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ### 🏅 Certification
 
-![MySQL Certified Associate](https://brm-workforce.oracle.com/pdf/certview/images/MYSQLIMPOCA.png)  
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/MYSQLIMPOCA.png" alt="MySQL Certified Associate" width="150" />  
 **MySQL Implementation Certified Associate** — *Oracle*
+
 
 
 ## 💻 Tools & Technologies
