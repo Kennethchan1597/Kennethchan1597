@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About Me:
-
+I'm a beginner coder who loves getting creative and trying out new tech.
+Feel free to reach out — I’m excited to connect, inspire, and learn together!
 ## ⚡ Fun fact:
-
+I used to work in a lab with a Biomedical Science degree but discovered coding is my real passion.
 
 
 ## 🏅 Certification
@@ -47,8 +48,3 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-Developer Tools: Postman PowerBI Git
-
-Libraries/Frameworks: AWS ReactJS PostgreSQL Spring Boot NodeJS Azure Docker Drools
