@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌱 About Me:
+
+## ⚡ Fun fact:
+
+
+
 ## 🏅 Certification
 <img src="https://brm-workforce.oracle.com/pdf/certview/images/MYSQLIMPOCA.png" alt="" width="200"/><br>
 **MySQL Implementation Certified Associate** — *Oracle*
