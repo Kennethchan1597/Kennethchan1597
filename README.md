@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>☁️ Cloud & DevOps: 
-<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/🌐 AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
