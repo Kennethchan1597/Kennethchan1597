@@ -27,7 +27,7 @@ I used to work in a lab with a Biomedical Science degree but discovered coding i
 <img src="https://brm-workforce.oracle.com/pdf/certview/images/MYSQLIMPOCA.png" alt="MySQL Cert" height="100"/><br>
 **MySQL Implementation Certified Associate** — *Oracle* <br>
 
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cert" height="100"/><br>
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cert" height="100" style="margin-left: 20px;/><br>
 **Cloud Practitioner Foundational** — *AWS*
 
 
