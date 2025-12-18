@@ -57,7 +57,7 @@ I used to work in a lab with a Biomedical Science degree but discovered coding i
 ![🌐 AWS](https://img.shields.io/badge/🌐%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2E2E2E.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 **📱 Mobile:**  
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
