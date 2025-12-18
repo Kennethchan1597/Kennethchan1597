@@ -30,6 +30,12 @@ I used to work in a lab with a Biomedical Science degree but discovered coding i
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cert" height="100" /><br>
 **Cloud Practitioner Foundational** — *AWS*
 
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Cert" height="100" /><br>
+**Solution Architect Associate** — *AWS*
+
+<img src="https://community.n8n.io/uploads/default/original/2X/8/830d900b5a1b012113f1f87098b00578e50f04ec.png" alt="AWS Cert" height="100" /><br>
+**Solution Architect Associate** — *AWS*
+
 
 ## 💻 Tools & Technologies
 
