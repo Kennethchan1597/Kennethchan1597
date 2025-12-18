@@ -34,7 +34,7 @@ I used to work in a lab with a Biomedical Science degree but discovered coding i
 **Solution Architect Associate** — *AWS*
 
 <img src="https://community.n8n.io/uploads/default/original/2X/8/830d900b5a1b012113f1f87098b00578e50f04ec.png" alt="AWS Cert" height="100" /><br>
-**Solution Architect Associate** — *AWS*
+**n8n Course Level 2** — *n8n*
 
 
 ## 💻 Tools & Technologies
